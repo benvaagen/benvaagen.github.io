@@ -1,0 +1,21 @@
+body {
+     background-color: #911476;
+     margin: 0;
+     padding: 0;
+     font-family: Helvetica, Arial, 'Times New Roman', Georgia, Times, serif, sans-serif;
+     font-size: 18px;
+     line-height: 150%;
+}
+
+h1 {
+    color: #efeee7;
+    background-color: #333333;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+    color: #24d808;
+}
